@@ -74,8 +74,6 @@ python -u bot.py
 
 ## Notes
 
-- Event title: `Baskin Robbins Shift`
-- Event location: `Baskin Robbins - Mission Blvd, Hayward`
 - If end time is earlier than start time, treated as overnight (end next day).
 - Missing AM/PM assumed PM (with a warning in the review).
 - Deduplication: same schedule image + same parsed shifts won't create duplicate events.
