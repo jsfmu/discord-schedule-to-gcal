@@ -1,0 +1,1 @@
+# discord-schedule-to-gcal
